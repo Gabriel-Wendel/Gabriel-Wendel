@@ -20,10 +20,9 @@
    </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Wendel&hide=TeX&layout=compact" width="350"></a>
-</p>
-<p align='center'>
+<!-- <p align='center'>
    ![Snake animation](https://github.com/Gabriel-Wendel/Gabriel-Wendel/blob/output/github-contribution-grid-snake.svg)
-</p>
+</p> -->
 <p align='center'>
   📫 How to reach me: <a href='mailto:xiolones@gmail.com'>xiolones@gmail.com</a>
 </p>
